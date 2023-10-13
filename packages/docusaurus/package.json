@@ -42,7 +42,7 @@
     "@babel/preset-typescript": "^7.22.5",
     "@babel/runtime": "^7.22.6",
     "@babel/runtime-corejs3": "^7.22.6",
-    "@babel/traverse": "^7.22.8",
+    "@babel/traverse": "^7.23.2",
     "@docusaurus/cssnano-preset": "3.0.0-beta.0",
     "@docusaurus/logger": "3.0.0-beta.0",
     "@docusaurus/mdx-loader": "3.0.0-beta.0",
